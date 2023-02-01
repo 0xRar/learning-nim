@@ -30,6 +30,6 @@ while true:
         echo "your grade description is Fail :(\n"
 
     else:
-        echo "sorry you entered a wrong grade"
+        echo "sorry you entered a wrong grade\n"
 
     echo "----------------------------------------"
