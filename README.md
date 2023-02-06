@@ -258,4 +258,3 @@ let cmp = strcmp("C?", "Easy!")
 
 Ref:
 - https://learnxinyminutes.com/docs/nim/
-- 
